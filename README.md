@@ -2,6 +2,7 @@
 A brand new technology/energy mod for Minecraft 1.11.2 / 1.12.2
 
 This mod has no license, by default that means "All Rights Reserved".
+
 In terms of code, the above statement applies.
 
 © 2018 TuxBuilder / Nlck / Nick, All rights reserved.

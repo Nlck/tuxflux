@@ -49,6 +49,6 @@ any mod that does not steal the original or repacakaged code that uses this mod 
 Nlck(aka TuxBuilder, Nick)
 
 ## Installation
-See INSTALL.md for more information.
+See "INSTALL.md" for more information.
 
 © 2018 TuxBuilder / Nlck / Nick, All rights reserved.

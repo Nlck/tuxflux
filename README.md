@@ -43,7 +43,7 @@ visible.
 ***Depending to is using this repository and/or mod to make a repository and/or mod that is dependent of this repository/mod. Basically,
 any mod that does not steal the original or repacakaged code that uses this mod to make an entirely different mod.
 
-****A Notice of approval might be an image(which will not be visible here due to fear of theft) that you may not share with anyone in any way, shape, or form. This image basically says you have my permission to___. It could also be a message that you recieve through me(more likely).
+****A Notice of approval might be an image(which will not be visible here due to fear of theft) that you may not share with anyone in any way, shape, or form. This image basically says you have my permission to do the CANNOTs. It could also be a message that you recieve through me(more likely).
 
 ## Authors
 Nlck(aka TuxBuilder, Nick)

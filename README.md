@@ -1,7 +1,8 @@
-# tuxflux
+# The "tuxflux" Licensing
 A brand new technology/energy mod for Minecraft 1.11.2 / 1.12.2
 
 This mod has no license, by default that means "All Rights Reserved".
+In terms of code, the above statement applies.
 
 © 2018 TuxBuilder / Nlck / Nick, All rights reserved.
 
@@ -47,6 +48,6 @@ any mod that does not steal the original or repacakaged code that uses this mod 
 Nlck(aka TuxBuilder, Nick)
 
 ## Installation
-See Install.md for more information.
+See INSTALL.md for more information.
 
 © 2018 TuxBuilder / Nlck / Nick, All rights reserved.

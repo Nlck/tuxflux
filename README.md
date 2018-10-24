@@ -38,12 +38,12 @@ visible.
 
 *A Modder is anyone who uses and/or modifies this repository or any repository that I,(TuxBuilder) make and/or work on.
 
-**Learning is using this repository to help you make another mod through its source code, so long as you don't steal the original or repackaged code. Basically, make **YOUR OWN** code to when learning from this mod. And no, you also may not re-type the entire code.
+**Learning is using this repository to help you make another mod through its source code, so long as you don't steal the original or repackaged code. Basically, make **YOUR OWN** code to when learning from this mod. You also may not re-type the entire code.
 
 ***Depending to is using this repository and/or mod to make a repository and/or mod that is dependent of this repository/mod. Basically,
 any mod that does not steal the original or repacakaged code that uses this mod to make an entirely different mod.
 
-****A Notice of approval might be an image(which will not be visible here due to fear of theft) that you may not share with anyone in any way, shape or form. This image basically says you have my permission to___. It could also be a message that you recieve through me(more likely).
+****A Notice of approval might be an image(which will not be visible here due to fear of theft) that you may not share with anyone in any way, shape, or form. This image basically says you have my permission to___. It could also be a message that you recieve through me(more likely).
 
 ## Authors
 Nlck(aka TuxBuilder, Nick)

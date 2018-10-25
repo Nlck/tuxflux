@@ -5,7 +5,7 @@ This mod has no license, by default that means "All Rights Reserved".
 
 In terms of code, the above statement applies.
 
-© 2018 TuxBuilder / Nlck / Nick, All rights reserved.
+© 2018 Nlck / Nick, All rights reserved.
 
 ## License
 
